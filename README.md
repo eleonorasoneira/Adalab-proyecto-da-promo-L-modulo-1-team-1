@@ -2,7 +2,9 @@
 
 Este repositorio contiene tres juegos programados en Python por un equipo de cuatro adalabers. Los juegos son los siguientes:
 
+
 *1. Piedra, Papel o Tijera* ✊📄✂️
+
 
 Las jugadoras eligen entre piedra, papel o tijera, y se enfrentan a la máquina determinándose un ganador según las siguientes normas:
 
@@ -17,7 +19,8 @@ Las jugadoras eligen entre piedra, papel o tijera, y se enfrentan a la máquina 
 - Juegas contra la máquina.
 - Es un mejor de cinco, es decir, quien gana 3 rondas, se lleva la partida.
 - Se irán indicando tus intentos y cuántas partidas ha ganado cada jugador a medida que avanza el juego.
-- 
+  
+  
 *2. Preguntas y Respuesta* ❓📝
 
 Las jugadoras...
@@ -27,6 +30,7 @@ Las jugadoras...
 - Contiene un diccionario con una serie de preguntas predefinidas.
 - 
 - 
+
 
 *3. Tic Tac Toe* ❌⭕
 
@@ -38,6 +42,8 @@ También conocido como tres en raya. Dos jugadoras se turnan para colocar "X" y 
 -
 -
 
+
+
 **Estructura del Proyecto** 🗂️
 
 ├── Piedra Papel Tijera.ipynb
@@ -47,6 +53,8 @@ También conocido como tres en raya. Dos jugadoras se turnan para colocar "X" y 
 ├── TTT.ipynb
 
 ├── README.md
+
+
 
 **Equipo de Desarrollo** 👩‍💻👩‍💻👩‍💻👩‍💻
 
