@@ -25,7 +25,7 @@ Las jugadoras eligen entre piedra, papel o tijera, y se enfrentan a la máquina 
   
 *2. Preguntas y Respuestas* ❓📝
 
-Las jugadoras...
+Juego de una sola jugadora. Consiste en responder correctamente las preguntas que genera aleatoriamente el juego.
 
 **Características:**
 
